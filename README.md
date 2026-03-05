@@ -21,3 +21,10 @@ python tic_tac_toe.py
 - Loops
 - Conditional logic
 - Program state management
+
+## Example
+
+Welcome to Tic Tac Toe!
+
+Player 1 turn
+Choose your next position (1-9):
